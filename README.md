@@ -60,3 +60,8 @@ Match
 abab
 NoMatch
 ````
+
+Credits
+-------
+This implementation is based on the Thompson NFA algorithm described by Russ Cox in [this](https://swtch.com/~rsc/regexp/regexp1.html) post.
+This implementation si 
